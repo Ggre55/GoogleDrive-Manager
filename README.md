@@ -9,9 +9,13 @@ A python tool that allow you to upload files to multiple google drive accounts, 
 
 + smart free space management, before it uploads files it cheeks each connected accounts free storage and chooses best one that has enough free space.
 + it has cool looking gui(made with pyqt5).
-+ easy to setup with instructions.
++ easy to setup with instructions and login window to quickly add accounts.
 
+## how to get :
+Just tell me, i dont like sharing my code in public so, you still can get it if you want it. just contact me: 😁✔
+ +Telegram [@DrWoop](https://t.me/DrWoop).
 
+  
 ## how to use :
 ```
 python3 -m pip install pyqt5
